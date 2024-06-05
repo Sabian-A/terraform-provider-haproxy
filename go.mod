@@ -1,4 +1,4 @@
-module terraform-provider-haproxy
+module github.com/Sabian-A/terraform-provider-haproxy
 
 go 1.20
 
